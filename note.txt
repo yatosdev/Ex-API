@@ -1,0 +1,6 @@
+jwt 			done
+crud via API
+tampilan client
+
+clients side
+sign in -> get jwt -> redirect/ajax?.
